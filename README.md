@@ -1,3 +1,6 @@
+
+  
+  <img width="480" height="960" alt="Screenshot_20251224-164331" src="https://github.com/user-attachments/assets/5cecb234-870b-4e46-aa75-150a57a4072b" />
 # Development Containers
 
 This repository is for the Development Container Specification. You can check out the spec on our website https://containers.dev/ too.
@@ -39,4 +42,5 @@ Please report issues in the following repositories:
 License for this repository:
 
 Copyright © Microsoft Corporation All rights reserved.<br />
-Creative Commons Attribution 4.0 License (International): https://creativecommons.org/licenses/by/4.0/legalcode
+Creative Commons Attribution 4.0 License (International): https://creativecommons.org/licenses/by/4.0/legalcode>.
+
